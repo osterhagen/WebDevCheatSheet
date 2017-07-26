@@ -1,5 +1,6 @@
 # WebDevCheatSheet
-A quick syntax guide and explanation, best for beginners who know the language, but need quick syntax help
+A quick syntax guide and explanation, best for beginners who know the language, but need quick syntax help 
+
 
 Languages/Frameworks currently supported:
 HTML
@@ -7,7 +8,3 @@ CSS
 Bootstrap
 jQuery
 and more coming...
-
-
-
-The skeleton to the code portrayed and the explanations given in the Neophytes Guide To Web.Dev. Book
