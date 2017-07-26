@@ -1,7 +1,7 @@
 # WebDevCheatSheet
 A quick syntax guide and explanation, best for beginners who know the language, but need quick syntax help
 
-Languages/Frameworkds currently supported:
+Languages/Frameworks currently supported:
 HTML
 CSS
 Bootstrap
